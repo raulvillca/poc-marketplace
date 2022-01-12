@@ -1,0 +1,12 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "dotenv": "^8.6.0",
+    "truffle-plugin-verify": "^0.5.20",
+    "lowdb": "^1.0.0"
+  }
+}
