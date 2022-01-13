@@ -1,5 +1,12 @@
 {
-  "name": "Dragon Alado de Ra",
-  "descripition": "",
-  "image": "https://ipfs.io/ipfs/QmXFwUB1gTy5vZfB7FgZq7WzN7NEsRX1Tr3AkgHmagbCQr"
+  "name": "Winged Dragon of Ra",
+  "description": "Ra is one of the Egyptian God Monsters",
+  "image": "https://ipfs.io/ipfs/QmXFwUB1gTy5vZfB7FgZq7WzN7NEsRX1Tr3AkgHmagbCQr",
+  "attack_points": "?",
+  "denfense_points": "?",
+  "special_abilities": [
+    "Three monsters must be tributed to summon Ra.",
+    "His attack and defense points are determined by the collective attack and defense points of the monsters used to summon Ra.",
+    "By giving up 1000 Life Points, you can destroy one monster on the field for good."
+  ]
 }

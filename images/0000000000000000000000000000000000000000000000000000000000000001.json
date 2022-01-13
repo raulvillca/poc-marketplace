@@ -1,5 +1,11 @@
 {
-  "name": "Obelisk",
-  "descripition": "",
-  "image": "https://ipfs.io/ipfs/Qma3dVEQ7PwZyz6LmM3UTSdbhyGhqTkuicWMG17ZMyULNt"
+  "name": "Obelisk the Tormentor",
+  "description": "Obelisk is one of the Egyptian God Monsters",
+  "image": "https://ipfs.io/ipfs/Qma3dVEQ7PwZyz6LmM3UTSdbhyGhqTkuicWMG17ZMyULNt",
+  "attack_points": "4000",
+  "denfense_points": "4000",
+  "special_abilities": [
+    "Three monsters must be tributed to summon Obelisk",
+    "You can sacrifice two monsters on your side of the field to allow Obelisk to destroy all monsters on the field and inflict 6000 points worth of damage to your opponent."
+  ]
 }

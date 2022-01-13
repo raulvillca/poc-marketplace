@@ -1,5 +1,11 @@
 {
-  "name": "Slifer",
-  "descripition": "Dragon del cielo, ",
-  "image": "https://ipfs.io/ipfs/QmX7J1kcsfhs8AUPdkt8KgEup7tEmgrYs5eZhXh5ABpVYt"
+  "name": "Slifer the Sky Dragon",
+  "description": "Slifer is one of the Egyptian God Monsters",
+  "image": "https://ipfs.io/ipfs/QmX7J1kcsfhs8AUPdkt8KgEup7tEmgrYs5eZhXh5ABpVYt",
+  "attack_points": "X000",
+  "denfense_points": "X000",
+  "special_abilities": [
+    "Can destroy 3 monsters with 1 blast.",
+    "Every new monster your opponent summons automatically loses 2000 Attack or Defense Points depending on the mode they're played in. If the monster's Attack or Defense Points are reduced to zero because of this, destroy the monster."
+  ]
 }
