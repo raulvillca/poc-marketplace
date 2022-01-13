@@ -4,11 +4,11 @@ pragma solidity >=0.4.22 <0.9.0;
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 
-contract ObeliskNFT is ERC721 {
+contract RaDragonNFT is ERC721, ERC721Enumerable {
     uint public supply;
     uint internal imageURI;
 
-    constructor() ERC721("Obelisk the tormentor - Egyptian God ", "OEG") {}
+    constructor() ERC721("Winged Dragon of Ra - Egyptian God ", "DREG") {}
 
     function tokenURI(uint256 tokenId) public view virtual override returns (string memory) {
         require(_exists(tokenId), "ERC721 Metadata: not exists token");
